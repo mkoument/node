@@ -1,0 +1,4 @@
+[10/4/19 13:12:08:340 EEST] 00000178 SystemOut     O 04 Oct 2019 13:12:08:340 [INFO] [MAXIMO] [CID-CRON-407] Correlation started.
+[10/4/19 13:12:08:344 EEST] 00000178 SystemOut     O 
+[10/4/19 13:12:08:370 EEST] 00000178 SystemOut     O 04 Oct 2019 13:12:08:370 [INFO] [MAXIMO] [CID-CRON-407] Correlated data: BEGIN TaskName:DepreciationFinTransCronTask InstanceName:InstDepreciationCronTask ElapsedTime:30 ms  END
+[10/4/19 13:12:17:444 EEST] 00000174 SystemOut     O 04 Oct 2019 13:12:17:444 [INFO] [MAXIMO] [CID-CRON-408] Correlation started.
